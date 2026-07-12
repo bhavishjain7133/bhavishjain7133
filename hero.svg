@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="Bhavish Jain research profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#0b1635"/>
+      <stop offset="1" stop-color="#11102a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.52" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#8BA8D8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="470" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="470" rx="28" fill="url(#grid)"/>
+  <circle cx="1040" cy="85" r="245" fill="url(#glow)" opacity="0.22"/>
+  <circle cx="270" cy="430" r="230" fill="#7C3AED" opacity="0.09"/>
+  <g opacity="0.7" stroke-linecap="round">
+    <path d="M770 338 C850 260 890 380 972 275 S1110 235 1160 155" fill="none" stroke="#38BDF8" stroke-opacity="0.33" stroke-width="3"/>
+    <path d="M720 185 C820 90 895 220 982 130 S1095 90 1165 50" fill="none" stroke="#A78BFA" stroke-opacity="0.28" stroke-width="2"/>
+    <path d="M735 390 C825 335 910 425 1000 350 S1112 330 1170 285" fill="none" stroke="#22D3EE" stroke-opacity="0.23" stroke-width="2"/>
+  </g>
+  <g stroke="#83CFFF" stroke-opacity="0.42" fill="#0D1C3F">
+    <line x1="785" y1="124" x2="875" y2="205"/>
+    <line x1="875" y1="205" x2="972" y2="145"/>
+    <line x1="875" y1="205" x2="948" y2="300"/>
+    <line x1="948" y1="300" x2="1065" y2="245"/>
+    <line x1="972" y1="145" x2="1088" y2="112"/>
+    <line x1="1065" y1="245" x2="1138" y2="337"/>
+    <circle cx="785" cy="124" r="8"/>
+    <circle cx="875" cy="205" r="11"/>
+    <circle cx="972" cy="145" r="8"/>
+    <circle cx="948" cy="300" r="10"/>
+    <circle cx="1065" cy="245" r="9"/>
+    <circle cx="1088" cy="112" r="7"/>
+    <circle cx="1138" cy="337" r="7"/>
+  </g>
+  <g fill="#7DD3FC" filter="url(#softGlow)">
+    <circle r="5"><animateMotion dur="5s" repeatCount="indefinite" path="M770 338 C850 260 890 380 972 275 S1110 235 1160 155"/></circle>
+    <circle r="4"><animateMotion dur="6.5s" repeatCount="indefinite" path="M720 185 C820 90 895 220 982 130 S1095 90 1165 50"/></circle>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="58" y="52" width="262" height="36" rx="18" fill="#101F42" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <circle cx="80" cy="70" r="5" fill="#4ADE80"><animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="95" y="76" fill="#D7F3FF" font-size="14" font-weight="700" letter-spacing="1.4">OPEN TO RESEARCH &amp; PhD ROLES</text>
+    <text x="58" y="165" fill="#F8FAFC" font-size="62" font-weight="800" letter-spacing="1">BHAVISH JAIN</text>
+    <rect x="58" y="184" width="510" height="5" rx="3" fill="url(#accent)"/>
+    <text x="58" y="232" fill="#C5D7F5" font-size="23" font-weight="600">M.Sc. Mathematics · IIT Delhi</text>
+    <text x="58" y="274" fill="#7DD3FC" font-size="21" font-weight="700">Operations Research × Supply Chain × AI</text>
+    <text x="58" y="312" fill="#9FB1CF" font-size="17">Stochastic optimization · Mathematical programming · Graph learning</text>
+    <g transform="translate(58 350)">
+      <rect width="178" height="44" rx="12" fill="#0D1C3F" stroke="#38BDF8" stroke-opacity="0.45"/>
+      <text x="89" y="28" text-anchor="middle" fill="#DDF6FF" font-size="14" font-weight="700">RESEARCH-FIRST BUILDER</text>
+      <rect x="192" width="166" height="44" rx="12" fill="#16153A" stroke="#A78BFA" stroke-opacity="0.45"/>
+      <text x="275" y="28" text-anchor="middle" fill="#EEE7FF" font-size="14" font-weight="700">DECISION SCIENCES</text>
+      <rect x="372" width="150" height="44" rx="12" fill="#0D2434" stroke="#22D3EE" stroke-opacity="0.45"/>
+      <text x="447" y="28" text-anchor="middle" fill="#DDFBFF" font-size="14" font-weight="700">REPRODUCIBLE ML</text>
+    </g>
+    <text x="810" y="392" fill="#A9B9D4" font-size="13" letter-spacing="1.3">MODELS · METHODS · MEASURABLE IMPACT</text>
+    <text x="785" y="94" fill="#6F8BB7" font-size="15">min  cᵀx + 𝔼[Q(x, ξ)]</text>
+    <text x="1004" y="177" fill="#7F94BB" font-size="14">G = (V, E)</text>
+    <text x="923" y="337" fill="#778EB5" font-size="14">ATE = 𝔼[Y(1) − Y(0)]</text>
+  </g>
+</svg>
