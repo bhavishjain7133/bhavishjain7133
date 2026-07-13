@@ -116,18 +116,6 @@ Cross-fitted, doubly-robust **(AIPW)** causal study of how missing a seller's di
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhavishjain7133&show_icons=true&theme=nord&title_color=0EA5E9&icon_color=7dd3fc&text_color=c9d1d9&border_color=7dd3fc&hide_border=false" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavishjain7133&layout=compact&theme=nord&title_color=0EA5E9&text_color=c9d1d9&border_color=7dd3fc" alt="top langs" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=bhavishjain7133&theme=nord&border=7dd3fc&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=0EA5E9&dates=8b949e" alt="streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhavishjain7133&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavishjain7133&theme=github-compact&bg_color=ffffff&color=0EA5E9&line=7dd3fc&point=0EA5E9&area=true&hide_border=true" alt="activity graph" />
-
 </div>
 
 <br/>
